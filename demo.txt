@@ -1,6 +1,2 @@
-demo for Git
-<<<<<<< HEAD
 sdfasdfsafsd
-=======
 plus
->>>>>>> 479d5d2 (Add demo.txt)
